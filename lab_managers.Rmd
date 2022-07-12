@@ -1,0 +1,21 @@
+---
+title: Resources for lab managers
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+As a lab manager, your role is to help others develop their code and you may also develop code directly yourself at times.
+Your primary responsibilities are not only to help developers create code that is the least wrong, but perhaps more importantly guide the lab developer(s) technical skill development.
+
+## General tips:  
+
+- As a senior member of the lab (at least when it comes to the technical aspects of code), you will want to achieve an open and empathetic communication line with the lab developers. You will be their direct support when it comes to troubleshooting or problems that arise.
+- It may take time and trial and error, but you will need to work with the lab developer(s) on striking a communication balance. You want to make it clear that you are available to help whenever the lab developers are stuck; but you will also want encourage lab developers to take time to run, test, and troubleshoot. This delicate balance is something that each lab developer will need to determine with your and your lab leader's guidance.  
+- As the primary reviewer of the code, it is your responsibility to ensure the correctness and efficiency of the code.   
+
+## Recommended reading for you:  
+
+- [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
+- [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.

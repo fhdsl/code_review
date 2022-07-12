@@ -1,0 +1,27 @@
+name: Code Review - Resources
+output_dir: '.'
+navbar:
+  title: "<img src='resources/images/FredHutch_h_tag_4col_cmyk.jpg' width = '200px'/>"
+  left:
+  - text: About DaSL
+    href: index.html
+    icon: fa-home
+  - text: For Lab Leaders
+    href: index.html
+    icon: lab_leaders.html
+  - text: For Lab Manager
+    href: lab_mangers.html
+    icon: fa-home
+  - text: For Lab Developers
+    href: lab_developers.html
+    icon: fa-home
+  - text: GitHub
+    href: https://github.com/fredhutch
+    icon: fa-github
+
+output:
+  html_document:
+    css: style.css
+    includes:
+      in_header: resources/header.html
+      after_body: resources/footer.html

@@ -1,0 +1,4 @@
+# ignore nonsense files
+.DS_Store
+.Rhistory
+.RData
