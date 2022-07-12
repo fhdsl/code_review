@@ -7,14 +7,14 @@ navbar:
     href: index.html
     icon: fa-home
   - text: For Lab Leaders
-    href: index.html
-    icon: lab_leaders.html
-  - text: For Lab Manager
-    href: lab_mangers.html
-    icon: fa-home
+    href: lab_leaders.html
+    icon: leader
+  - text: For Lab Managers
+    href: lab_managers.html
+    icon: manager
   - text: For Lab Developers
     href: lab_developers.html
-    icon: fa-home
+    icon: developer
   - text: GitHub
     href: https://github.com/fredhutch
     icon: fa-github
