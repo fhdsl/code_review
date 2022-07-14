@@ -12,7 +12,7 @@ navbar:
     href: lab_managers.html
   - text: For Lab Developers
     href: lab_developers.html
-  - text: So many resources for learning code
+  - text: So many resources!
     href: more_resources.html
     icon: fa-book
   - text: GitHub
