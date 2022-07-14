@@ -17,5 +17,8 @@ Your primary responsibilities are not only to help developers create code that i
 
 ## Recommended reading for you:  
 
-- [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
-- [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.
+- For tips for writing good code and creating reproducible projects: [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
+- For tips for writing pull requests: [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
+- For tips for reviewing pull requests: [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.
+- For more on effective code review: [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a/) by Jean-Charles Fabre.
+- For good practics on code review: [Best practices for Code Review](https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/) from SmartBear.

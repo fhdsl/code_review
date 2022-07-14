@@ -15,6 +15,7 @@ We recommend you read through this course on [Leadership for Cancer Informatics 
 - As the leader of the lab, your job will be to help guide your lab in prioritizing code review as well as setting up the macro-system for what code review in your lab should look like.
 - Where appropriate, we highly suggest you delegate all direct handling of code and code review responsibilities to others in your lab.
 - If historically, you've been more directly involved with reviewing code, this means you will have to intentionally take a step back from that role and instead focus on supporting your lab members as they create a collaborative code review atmosphere of their own. Encourage your lab members to heavily communicate and collaborate with each other instead of you. This will be a more efficient use of everyone's time!
+- If your lab is particularly small, you may need to reach out to other labs who write code and encourage your lab members to collaborate with them. 
 
 ## Tips for fostering a collaborative code development atmosphere
 

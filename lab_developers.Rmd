@@ -11,11 +11,12 @@ As the direct author of the code you will have the most intimate knowledge of th
 ## General tips:
 
 - It is a skill to know when to ask for help and when you should continue to plug away at a problem on your own. With the help and guidance of your lab manager and/or lab leader, you can work on striking the right balance. On one hand, if you are stuck on a problem that you are making no progress on it is an inefficient use of everyone's time and energy for you to continue to be frustrated -- **definitely reach out for help**! Others want you and your project to succeed and are generally happy to help you!
-- If you are in a small lab or a lab that is not very programming proficient, you may need to get creative in finding help. At the data science lab, one of our goals will be to help you get connected with others to collaborate with.
+- If you are in a small lab or a lab that is not very programming proficient, you may need to get creative in finding help. At the data science lab, one of our goals will be to help you get connected with others to collaborate with. 
 
 ## Recommended reading:
 
-- [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
-- [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.
-- [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a/) by Jean-Charles Fabre.
-- [Best practices for Code Review](https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/) from SmartBear.
+- For tips for writing good code and creating reproducible projects: [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
+- For tips for writing pull requests: [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
+- For tips for reviewing pull requests: [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.
+- For more on effective code review: [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a/) by Jean-Charles Fabre.
+- For good practics on code review: [Best practices for Code Review](https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/) from SmartBear.
