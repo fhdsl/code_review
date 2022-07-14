@@ -12,10 +12,13 @@ We recommend you read through this course on [Leadership for Cancer Informatics 
 
 ## General tips:  
 
-- As the leader of the lab, your job will be to help guide your lab in prioritizing code review as well as setting up the macro-system for what code review in your lab should look like.
-- Where appropriate, we highly suggest you delegate all direct handling of code and code review responsibilities to others in your lab.
-- If historically, you've been more directly involved with reviewing code, this means you will have to intentionally take a step back from that role and instead focus on supporting your lab members as they create a collaborative code review atmosphere of their own. Encourage your lab members to heavily communicate and collaborate with each other instead of you. This will be a more efficient use of everyone's time!
-- If your lab is particularly small, you may need to reach out to other labs who write code and encourage your lab members to collaborate with them. 
+- As the leader of the lab, your job will be to help guide your lab in **prioritizing code review** as well as setting up the macro-system for what code review in your lab should look like. Code review does take more time and it is not always fun. Your lab will need encouragement and support from you that code review will help everyone learn as well as help the code product be at a higher quality.
+- Where appropriate, we highly suggest you **delegate all direct handling of code and code review responsibilities to others in your lab**.
+- If historically, you've been more directly involved with reviewing code, this means you will have to intentionally take a step back from that role and instead focus on supporting your lab members as they create a collaborative code review atmosphere of their own. **Encourage your lab members to heavily communicate and collaborate with each other instead of you**. This will be a more efficient use of everyone's time!
+- If your lab is particularly small, you may need to reach out to other labs who write code and encourage your lab members to collaborate with them.
+- Encourage a **"no blame autopsy"** stance when discussing code problems within your lab. By that we mean blame never helps anyone and only serves to make things uncomfortable or even toxic. You want the members of your lab to readily come to you with mistakes rather than encouraging them to hide them from you. Mistakes are human and generally just a product of a system and should not be attributed to character flaws. Openly discuss with your lab:
+  - **What can you (as the lab leader) do to support your mentees** in reducing the likelihood of this mistake happening again?
+  - Encourage everyone to understand that **finding the mistake is a good thing because now we all can learn from it**.
 
 ## Tips for fostering a collaborative code development atmosphere
 

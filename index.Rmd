@@ -10,6 +10,8 @@ Creating quality code is tricky, whether it be for data analysis or a software p
 
 Code review does take more time upfront than not doing code review, but the long-term benefits of code review are worth the upfront costs. Code review will not make your code perfect, but it will help to make your code _less wrong_.
 
+The most rewarding ventures into code review start with the mentality that **being wrong is okay and expected sometimes!**. Indeed, Code review helps us uncover the mistakes rather than keeping them hidden. Uncovered mistakes allow 1) Everyone to learn! :tada: and 2) For the code product to be improved! :tada:
+
 ## Benefits of code review:  
 
 - More efficient code!
