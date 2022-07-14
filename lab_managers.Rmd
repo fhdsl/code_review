@@ -11,12 +11,13 @@ Your primary responsibilities are not only to help developers create code that i
 
 ## General tips:  
 
-- As a senior member of the lab (at least when it comes to the technical aspects of code), you will want to achieve an open and empathetic communication line with the lab developers. You will be their direct support when it comes to troubleshooting or problems that arise.
-- It may take time and trial and error, but you will need to work with the lab developer(s) on striking a communication balance. You want to make it clear that you are available to help whenever the lab developers are stuck; but you will also want encourage lab developers to take time to run, test, and troubleshoot. This delicate balance is something that each lab developer will need to determine with your and your lab leader's guidance.  
-- As the primary reviewer of the code, it is your responsibility to ensure the correctness and efficiency of the code.
+- As a senior member of the lab (at least when it comes to the technical aspects of code), you will want to achieve an **open and empathetic communication line** with the lab developers. You will be their direct support when it comes to troubleshooting or problems that arise.
+- It may take time and trial and error, but you will need to work with the lab developer(s) on striking a communication balance. You want to **make it clear that you are available to help whenever the lab developers are stuck**; but you will also want encourage lab developers to take time to run, test, and troubleshoot. This delicate balance is something that each lab developer will need to determine with your and your lab leader's guidance.  
+- As the primary reviewer of the code, it is your responsibility **to ensure the correctness and efficiency of the code**.
 - Take a **"no blame autopsy"** stance when digging into code problems within your lab. By that we mean blame never helps anyone and only serves to make things uncomfortable or even toxic. You want the members of your lab to readily come to you with mistakes rather than encouraging them to hide them from you. Mistakes are human and generally just a product of a system and should not be attributed to character flaws. Instead, if you find a mistake in code or elsewhere (particularly if a pattern arises), empathetically and openly discuss with your lab:
-  - What can you (as the lab manager) do to help support the mentee and help both of you find a solution to reduce the chances of this mistake being repeated? 
+  - What can you (as the lab manager) do to help support the mentee and help both of you find a solution to reduce the chances of this mistake being repeated?
   - Be empathetic and reassuring that **finding the mistake is a good thing because now we all can learn from it**.
+- It's a great idea for you and the other members of your lab to **get involved** with [online and in person coding groups](./more_resources.html#groups-for-discussing-code) and this includes potentially starting a within lab coding group of your own that meets on a regular basis to review code.
 
 ## General recommended reading for you:  
 
