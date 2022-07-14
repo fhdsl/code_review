@@ -89,7 +89,7 @@ Jere Xu):
   - **Actual result** - Copy and paste the exact error message you are getting or otherwise provide a screenshot of the problem you are seeing.
   - **Environment** — What operating system and version are you running on? What package managers and libraries are you using?
 
-## General recommended reading about code review and good code practices for you:  
+## Reading about code review  
 
 - For tips for writing good code and creating reproducible projects: [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - For tips for writing pull requests: [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.

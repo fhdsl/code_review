@@ -19,7 +19,7 @@ Your primary responsibilities are not only to help developers create code that i
   - Be empathetic and reassuring that **finding the mistake is a good thing because now we all can learn from it**.
 - It's a great idea for you and the other members of your lab to **get involved** with [online and in person coding groups](./more_resources.html#groups-for-discussing-code) and this includes potentially starting a within lab coding group of your own that meets on a regular basis to review code.
 
-## General recommended reading for you:  
+## General recommended reading for you 
 
 - For tips for writing good code and creating reproducible projects: [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - For tips for writing pull requests: [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
