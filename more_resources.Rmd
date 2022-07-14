@@ -1,0 +1,130 @@
+---
+title: All the Resources!
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Reading about good code in general
+
+- For tips for writing good code and creating reproducible projects: [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
+- For tips for writing pull requests: [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
+- For tips for reviewing pull requests: [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.
+- For more on effective code review: [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a/) by Jean-Charles Fabre.
+- About [Good scientific coding practices](https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/00c-good-scientific-coding-practices.md) by the Childhood Cancer Data Lab.
+- [Tips for debugging code from the Childhood Cancer Data Lab](https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/00b-debugging_resources.md)
+- For good practices on code review: [Best practices for Code Review](https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/) from SmartBear.
+
+## Training Networks
+
+These places have workshops, online and in person groups, and/or tutorials that can help you get plugged into training opportunities and connect others who are learning informatics.
+
+- [ITCR Training Network](https://www.itcrtraining.org/) - hosts events, workshops and creates content for cancer informatics.
+- [The Carpentries](https://carpentries.org), with lessons from [Data Carpentry](https://datacarpentry.org) and [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Childhood Cancer Data Lab](https://www.ccdatalab.org/) - more specific to childhood cancer research. Has great workshops, materials, and software tools.
+- [Gene Pattern](https://www.genepattern.org/) - has an online 'point and click' website with a large library of tutorials to reference. They also host workshops.
+- [Galaxy Training Network](https://training.galaxyproject.org/) - has an online server you can work from and lots of tutorials for different data types.
+- [Cold Spring Harbor](https://meetings.cshl.edu/courseshome.aspx) offers a variety of courses for genomics.
+- If you specifically work on Childhood Cancer Research, we recommend getting plugged in with the [Childhood Cancer Data Lab](https://www.ccdatalab.org/). They have workshops and their own Slack tailored to the specifics of childhood cancer data science research.
+
+## Groups for discussing code
+
+These are completely free groups that you can join anytime that are also filled with people also tackling coding and informatics research.
+
+- [**R Ladies**](https://rladies.org/): A group that has local meetups to discuss R and R topics. (Not exclusive to women-identifying individuals). See here for the [R Ladies Seattle](https://www.meetup.com/rladies-seattle/).
+- [**Fred Hutch Slack R User Group**](https://app.slack.com/client/T8NN74686): Discusses programming, data analysis, and troubleshooting in R for users of a wide range of expertise and research topic, as well as tools based in R such as Shiny applications. See the #r-user-comm channel on [FH-BCR Slack](https://app.slack.com/client/T8NN74686) for more information. Currently an online Slack channel only.
+- [**Fred Hutch Slack Python User Group**](https://app.slack.com/client/T8NN74686): Discusses programming, data analysis, and troubleshooting in Python and related topics in general software development. See the #python-user-comm channel on [FH-BCR Slack](https://app.slack.com/client/T8NN74686) for more information. Currently an online Slack channel only.
+- The [Childhood Cancer Data Lab](https://www.ccdatalab.org/) has their own Slack tailored to the specifics of childhood cancer data science research.
+
+## Free online resources
+
+There are a lot of resources online that you can work through at your own pace. Most are completely free. If they are not free, this is noted in the list.
+
+### R and Tidyverse
+
++ [Swirl, an interactive tutorial](https://swirlstats.com/)  
++ [R for Data Science](https://r4ds.had.co.nz/)  
++ [Tidyverse skills for Data Science](http://jhudatascience.org/tidyversecourse/) by Carrie Wright.
++ [Handy R cheatsheets](https://www.rstudio.com/resources/cheatsheets/)  
++ [R Cookbook Second Edition](https://rc2e.com/)
++ [Advanced R](https://adv-r.hadley.nz/)
++ [R for Epidemiology](https://www.r4epi.com/) - has generally good R advice
++ [O'Reilly books](https://www.spl.org/books-and-media/books-and-ebooks/safari-books-online) available through Seattle Public Library
+
+### R notebooks
+
++ [R Markdown](http://rmarkdown.rstudio.com)  
++ [Tutorial on R, RStudio and R Markdown](https://ismayc.github.io/rbasics-book/)
++ [Handy R cheatsheets](https://www.rstudio.com/resources/cheatsheets/)  
++ [R Notebooks tutorial](https://bookdown.org/yihui/rmarkdown/)  
+
+### R and Genomics
+
++ [Intro to R and Tidyverse course and exercises](https://github.com/AlexsLemonade/training-modules/tree/master/intro-to-R-tidyverse) from the Childhood Cancer Data Lab.
++ [Refine.bio examples](https://alexslemonade.github.io/refinebio-examples/index.html) from the Childhood Cancer Data Lab.
++ [Biostar Handbook: A Beginner's Guide to Bioinformatics](https://www.biostarhandbook.com)
+
+### Python
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python for Biologists](https://www.pythonforbiologists.org/)
+
+## Learn on your own courses
+
+If you want to learn on your own, but would like a more formal course set up and schedule, these courses can offer you more structure as well as certification.
+
+### ITN Courses and course material
+
+See the [full listing of ITN courses here](https://www.itcrtraining.org/courses).
+
+- **Introduction to Reproducibility in Cancer Informatics** - a hands-on course that takes you through good practices for creating reproducible data analyses. Can be be followed along using R or Python.
+  - The material for this course can be viewed without login requirement on this [Bookdown website](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/). This format might be most appropriate for you if you rely on screen-reader technology.
+  - This course can be taken for [free certification through Leanpub](https://leanpub.com/universities/courses/jhu/intro-reproducibility-in-cancer-informatics).
+  - This course can be taken on [Coursera for certification here](https://www.coursera.org/learn/intro-to-reproducibility-cancer-informatics) (but it is not available for free on Coursera).
+- **Advanced Reproducibility for Cancer Informatics** - the sequel course to the Intro to Reproducibility course.
+  - The material for this course can be viewed without login requirement on this [Bookdown website](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/). This format might be most appropriate for you if you rely on screen-reader technology.
+  - This course can be taken for [free certification through Leanpub](https://leanpub.com/universities/courses/jhu/adv-reproducibility-in-cancer-informatics).
+  - This course can be taken on [Coursera for certification here](https://www.coursera.org/learn/adv-reproducibility-cancer-informatics) (but it is not available for free on Coursera).
+- **Documentation and Usability in Cancer Informatics** - Discusses best practices for creating usable software and thorough documentation.
+  - The material for this course can be viewed without login requirement on this [Bookdown website](https://jhudatascience.org/Documentation_and_Usability). This format might be most appropriate for you if you rely on screen-reader technology.
+  - This course can be taken for [free certification through Leanpub](https://leanpub.com/universities/courses/jhu/documentation_and_usability/).
+  - This course can be taken on [Coursera for certification here](https://www.coursera.org/learn/documentation-usability-cancer-informatics) (but it is not available for free on Coursera).
+
+### Other online courses
+
+- [MCB517A: Tools for Computational Biology](https://github.com/fredhutchio/tfcb_2019): A graduate-level course taught for UW by Fred Hutch CompBio faculty. This links to a GitHub repository that includes all lectures and homework.
+  - [How to install necessary software for this course](https://github.com/fredhutchio/tfcb_2019/tree/master/software)
+  - [Ask questions about this course](https://github.com/fredhutchio/tfcb_2019/issues)
+  - *Course materials all available for free*
+- [edX](https://www.edx.org): Offers a collection of courses for [Data Analysis and Statistics](https://www.edx.org/course/subject/data-analysis-statistics) and [Bioinformatics](https://www.edx.org/learn/bioinformatics)
+  - [Rafael Irizarry](http://rafalab.github.io/) of Dana Farber has online programs available through edX:
+    - [Introduction to Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
+    - [Data Analysis for Life Sciences](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences)
+    - [Data Analysis for Genomics](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-genomics)
+  - *Generally speaking, edX courses are all free to audit for a limited period of time. Unlimited access and the ability to earn a course Certificate will require payment*
+- [Coursera](https://www.coursera.org): Offers a collection of courses for [Data Science](https://www.coursera.org/browse/data-science) and [Bioinformatics](https://www.coursera.org/browse/life-sciences/bioinformatics)
+  - [R Programming](https://www.coursera.org/specializations/data-science-foundations-r): A beginner-level program has five mini-courses. It takes about 4 months to complete.
+  - [Statistics with R](https://www.coursera.org/specializations/statistics): A beginner-level program with five mini-courses. It takes about 7 months to complete.
+  - [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science): An intermediate-level program for those who are already aquainted with R. It has eight mini-courses. It takes about 6 months to complete.
+  - [Python Programming](https://www.coursera.org/specializations/data-science-python): An intermediate-level program that takes about 4 months to complete.
+  - *Coursera offers a 7-day free trial, and is a paid subscription service after*
+- [Udacity](https://www.udacity.com): Offers a collection of courses for [Data Science](https://www.udacity.com/courses/school-of-data-science)
+  - *Udacity is a paid subscription service*
+  - [Currently offering one month free for their Nanodegree programs.](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html)
+- [Udemy](https://www.udemy.com): Offers a collection of courses for [Data Science](https://www.udemy.com/courses/development/data-science/)
+  - *Udemy offers courses at various price points.*
+  - Keep an eye out for sales which happen regularly and can drastically reduce the cost.
+- [CognitiveClass.ai](https://cognitiveclass.ai/) Offers a collection of courses for data science, AI, and cloud computing.
+  - *All courses are free*
+- [The Open Source Data Science Masters](http://datasciencemasters.org): An open-source curriculum for learning data science. This is a mixed media course made up of videos, books, and slides.
+  - *Some content is free, some is paid*
+- [CalTech](http://work.caltech.edu/telecourse) Learning from Data
+  - *A free YouTube series*
+- [DataQuest](https://www.dataquest.io/): A subscription service that offers programs and courses focused on data analysis and engineering in Python and R.
+    - *Tiered payment system with basic and premium plans*
+- [CodeAcademy](https://www.codecademy.com/): A subscription service that offers coding programs and courses in many different languages.
+  - *Tiered payment system with limited content available for free*
+
+
+\* Completely overwhelmed? Don't know where to start? [Fill out this form](https://forms.gle/8WkKbbpjg6AXTuMW7) and let us know what's going on.

@@ -48,7 +48,9 @@ A lot of your team's own project development will be something you all need to l
 ![](resources/images/lab_roles_3.png)
 
 From here, we recommend you go to the page that most closely describes your role in your lab:
-   
+
 - [Lab Leader](lab_leaders.html)
 - [Lab Manager](lab_managers.html)
 - [Lab Developer](lab_developers.html)
+
+\* Completely overwhelmed? Don't know where to start? [Fill out this form](https://forms.gle/8WkKbbpjg6AXTuMW7) and let us know what's going on.

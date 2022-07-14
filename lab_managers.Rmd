@@ -15,10 +15,14 @@ Your primary responsibilities are not only to help developers create code that i
 - It may take time and trial and error, but you will need to work with the lab developer(s) on striking a communication balance. You want to make it clear that you are available to help whenever the lab developers are stuck; but you will also want encourage lab developers to take time to run, test, and troubleshoot. This delicate balance is something that each lab developer will need to determine with your and your lab leader's guidance.  
 - As the primary reviewer of the code, it is your responsibility to ensure the correctness and efficiency of the code.   
 
-## Recommended reading for you:  
+## General recommended reading for you:  
 
 - For tips for writing good code and creating reproducible projects: [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - For tips for writing pull requests: [Engaging in Code Review as an Author](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html) by Candace Savonen.
 - For tips for reviewing pull requests: [Engaging in Code Review as an Reviewer](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html) by Candace Savonen.
 - For more on effective code review: [A zen manifesto for effective code reviews](https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a/) by Jean-Charles Fabre.
-- For good practics on code review: [Best practices for Code Review](https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/) from SmartBear.
+- About [Good scientific coding practices](https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/00c-good-scientific-coding-practices.md) by the Childhood Cancer Data Lab.
+- [Tips for debugging code from the Childhood Cancer Data Lab](https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/00b-debugging_resources.md)
+- For good practices on code review: [Best practices for Code Review](https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/) from SmartBear.
+
+**See our list of [recommended resources](./more_resources.html) to get going!**

@@ -8,13 +8,13 @@ navbar:
     icon: fa-home
   - text: For Lab Leaders
     href: lab_leaders.html
-    icon: leader
   - text: For Lab Managers
     href: lab_managers.html
-    icon: manager
   - text: For Lab Developers
     href: lab_developers.html
-    icon: developer
+  - text: So many resources for learning code
+    href: more_resources.html
+    icon: fa-book
   - text: GitHub
     href: https://github.com/fredhutch
     icon: fa-github
