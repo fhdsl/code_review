@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-As a lab leader, you oversee the lab and are the lead of the projects. You be in charge of gathering funding and mentoring trainees more generally. Your primary responsibilities are to make sure your lab managers and lab developers are set up and supported for success.
+As a lab leader, you oversee the lab and are the lead of the projects. You are generally in charge of gathering funding and mentoring trainees more generally. Your primary responsibilities are to make sure your lab managers and lab developers are set up and supported for success.
 
 ## General tips:  
 

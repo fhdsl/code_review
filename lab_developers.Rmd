@@ -11,7 +11,7 @@ As the direct author of the code you will have the most intimate knowledge of th
 ## General tips:
 
 - Learning to data science can be a steep learning curve. **Be patient with yourself!** Anyone who has ever written code has definitely wanted to pull their hair out at one time or another when they've gotten stuck on a tricky issue.
-- In respect to this, we recommend trying to **get plugged into coding groups**. Not only can they be helpful for helping you get unstuck
+- In respect to this, we recommend trying to **get plugged into coding groups**. Not only can they be helpful for helping you get unstuck, but also just helpful for support in general or for learning tips for how to improve your code. 
 - **Seek out resources** that can help give you the basics of coding. Take a look at our [pretty long list](./more_resources.html). Think about how you best learn. Do you like [reading through material on your own](./more_resources.html#Free-online-resources), or do you prefer a more formal class setting like what a [workshop](./more_resources.html#training-networks) might provide? If you want a mix of both structure and work-at-your-own pace, [online courses](./more_resources.html#learn-on-your-own-courses) may be the way to start.
 - **Data science is best performed as a team effort**. There's no such thing as the "lone genius" in data science. Don't be afraid to ask others for help! Sometimes you just explaining the problem will help you to see a solution!
 - It is a skill to know when to ask for help and when you should continue to plug away at a problem on your own. With the help and guidance of your lab manager and/or lab leader, you can work on striking the right balance. On one hand, if you are stuck on a problem that you are making no progress on it is an inefficient use of everyone's time and energy for you to continue to be frustrated -- **definitely reach out for help**! Others want you and your project to succeed and are generally happy to help you!
@@ -34,7 +34,7 @@ If you ran many lines of code, you may not know which part of your code is the o
 
 Chunk-out your code and test the individual bits of code. Do you have a lot of lines of code, a lot of arguments, or multiple functions at once? Try each piece by itself to narrow down what piece appears to be the origin of the problem.
 
-###3) Be sure that the code you think you have run has all successfully run and in order.
+### 3) Be sure that the code you think you have run has all successfully run and in order.
 It could be that the problem with your code isn't that it doesn't work as it is written, but that you didn't run it or didn't run it in the correct order. This should be one of the first things you check, while checking that the objects that you believe should be in your environment, are in your environment.
 
 It's also good practice to be periodically quitting your current R session and starting a new one, in addition to clearing your R notebook output. If you are encountering problems and haven't refreshed your R session, you may want to do that before further troubleshooting.
@@ -49,7 +49,7 @@ The main advantage to Googling your errors is that you are likely not the first 
 #### a) StackOverflow
 StackOverflow this is a forum where people post questions and problems they encounter in their code.
 
-####b) GitHub Issues
+#### b) GitHub Issues
 People also will post their problems to GitHub issues. Often these are more geared toward fixing problems with the package or software itself, but this is a way to potentially get direct help on an issue from the authors of the package you are using.
 
 #### c) R-bloggers
