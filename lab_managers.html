@@ -13,8 +13,8 @@
 
 <title>Resources for lab managers</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -326,35 +326,42 @@ div.tocify {
   <a href="index.html">
     <span class="fa fa-home"></span>
      
-    About DaSL
+    About Code Review
   </a>
 </li>
 <li>
   <a href="lab_leaders.html">
-    <span class=" leader"></span>
+    <span class="fa fa-person-chalkboard"></span>
      
     For Lab Leaders
   </a>
 </li>
 <li>
   <a href="lab_managers.html">
-    <span class=" manager"></span>
+    <span class="fa fa-users-between-lines"></span>
      
     For Lab Managers
   </a>
 </li>
 <li>
   <a href="lab_developers.html">
-    <span class=" developer"></span>
+    <span class="fa fa-users-gear"></span>
      
     For Lab Developers
   </a>
 </li>
 <li>
-  <a href="https://github.com/fredhutch">
-    <span class="fa fa-github"></span>
+  <a href="more_resources.html">
+    <span class="fa fa-book"></span>
      
-    GitHub
+    So many resources!
+  </a>
+</li>
+<li>
+  <a href="https://data.fredhutch.org">
+    <span class="fa fa-code-merge"></span>
+     
+    FH DaSL
   </a>
 </li>
       </ul>
@@ -378,18 +385,30 @@ div.tocify {
 <div id="general-tips" class="section level2">
 <h2>General tips:</h2>
 <ul>
-<li>As a senior member of the lab (at least when it comes to the technical aspects of code), you will want to achieve an open and empathetic communication line with the lab developers. You will be their direct support when it comes to troubleshooting or problems that arise.</li>
-<li>It may take time and trial and error, but you will need to work with the lab developer(s) on striking a communication balance. You want to make it clear that you are available to help whenever the lab developers are stuck; but you will also want encourage lab developers to take time to run, test, and troubleshoot. This delicate balance is something that each lab developer will need to determine with your and your lab leader’s guidance.<br />
+<li>As a senior member of the lab (at least when it comes to the technical aspects of code), you will want to achieve an <strong>open and empathetic communication line</strong> with the lab developers. You will be their direct support when it comes to troubleshooting or problems that arise.</li>
+<li>It may take time and trial and error, but you will need to work with the lab developer(s) on striking a communication balance. You want to <strong>make it clear that you are available to help whenever the lab developers are stuck</strong>; but you will also want encourage lab developers to take time to run, test, and troubleshoot. This delicate balance is something that each lab developer will need to determine with your and your lab leader’s guidance.<br />
 </li>
-<li>As the primary reviewer of the code, it is your responsibility to ensure the correctness and efficiency of the code.</li>
+<li>As the primary reviewer of the code, it is your responsibility <strong>to ensure the correctness and efficiency of the code</strong>.</li>
+<li>Take a <strong>“no blame autopsy”</strong> stance when digging into code problems within your lab. By that we mean blame never helps anyone and only serves to make things uncomfortable or even toxic. You want the members of your lab to readily come to you with mistakes rather than encouraging them to hide them from you. Mistakes are human and generally just a product of a system and should not be attributed to character flaws. Instead, if you find a mistake in code or elsewhere (particularly if a pattern arises), empathetically and openly discuss with your lab:
+<ul>
+<li>What can you (as the lab manager) do to help support the mentee and help both of you find a solution to reduce the chances of this mistake being repeated?</li>
+<li>Be empathetic and reassuring that <strong>finding the mistake is a good thing because now we all can learn from it</strong>.</li>
+</ul></li>
+<li>It’s a great idea for you and the other members of your lab to <strong>get involved</strong> with <a href="./more_resources.html#groups-for-discussing-code">online and in person coding groups</a> and this includes potentially starting a within lab coding group of your own that meets on a regular basis to review code.</li>
 </ul>
 </div>
-<div id="recommended-reading-for-you" class="section level2">
-<h2>Recommended reading for you:</h2>
+<div id="general-recommended-reading-for-you" class="section level2">
+<h2>General recommended reading for you</h2>
 <ul>
-<li><a href="https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html">Engaging in Code Review as an Author</a> by Candace Savonen.</li>
-<li><a href="https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html">Engaging in Code Review as an Reviewer</a> by Candace Savonen.</li>
+<li>For tips for writing good code and creating reproducible projects: <a href="https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/">Reproducibility in Cancer Informatics</a></li>
+<li>For tips for writing pull requests: <a href="https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-an-author.html">Engaging in Code Review as an Author</a> by Candace Savonen.</li>
+<li>For tips for reviewing pull requests: <a href="https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/engaging-in-code-review---as-a-reviewer.html">Engaging in Code Review as an Reviewer</a> by Candace Savonen.</li>
+<li>For more on effective code review: <a href="https://www.freecodecamp.org/news/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a/">A zen manifesto for effective code reviews</a> by Jean-Charles Fabre.</li>
+<li>About <a href="https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/00c-good-scientific-coding-practices.md">Good scientific coding practices</a> by the Childhood Cancer Data Lab.</li>
+<li><a href="https://github.com/AlexsLemonade/training-modules/blob/master/intro-to-R-tidyverse/00b-debugging_resources.md">Tips for debugging code from the Childhood Cancer Data Lab</a></li>
+<li>For good practices on code review: <a href="https://smartbear.com/en/learn/code-review/best-practices-for-peer-code-review/">Best practices for Code Review</a> from SmartBear.</li>
 </ul>
+<p><strong>See our list of <a href="./more_resources.html">recommended resources</a> to get going!</strong></p>
 </div>
 
 <hr>

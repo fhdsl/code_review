@@ -13,8 +13,8 @@
 
 <title>About Scientific Code Review</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -326,35 +326,42 @@ div.tocify {
   <a href="index.html">
     <span class="fa fa-home"></span>
      
-    About DaSL
+    About Code Review
   </a>
 </li>
 <li>
   <a href="lab_leaders.html">
-    <span class=" leader"></span>
+    <span class="fa fa-person-chalkboard"></span>
      
     For Lab Leaders
   </a>
 </li>
 <li>
   <a href="lab_managers.html">
-    <span class=" manager"></span>
+    <span class="fa fa-users-between-lines"></span>
      
     For Lab Managers
   </a>
 </li>
 <li>
   <a href="lab_developers.html">
-    <span class=" developer"></span>
+    <span class="fa fa-users-gear"></span>
      
     For Lab Developers
   </a>
 </li>
 <li>
-  <a href="https://github.com/fredhutch">
-    <span class="fa fa-github"></span>
+  <a href="more_resources.html">
+    <span class="fa fa-book"></span>
      
-    GitHub
+    So many resources!
+  </a>
+</li>
+<li>
+  <a href="https://data.fredhutch.org">
+    <span class="fa fa-code-merge"></span>
+     
+    FH DaSL
   </a>
 </li>
       </ul>
@@ -376,8 +383,9 @@ div.tocify {
 
 <p>Creating quality code is tricky, whether it be for data analysis or a software package or some other context. If your lab creates code, we using a system of code review, which we will give you resources here to help you get that set up.</p>
 <p>Code review does take more time upfront than not doing code review, but the long-term benefits of code review are worth the upfront costs. Code review will not make your code perfect, but it will help to make your code <em>less wrong</em>.</p>
+<p>The most rewarding ventures into code review start with the mentality that <strong>being wrong is okay and expected sometimes!</strong>. Indeed, Code review helps us uncover the mistakes rather than keeping them hidden. Uncovered mistakes allow <strong>1) Everyone to learn!</strong> and <strong>2) For the code product to be improved!</strong>.</p>
 <div id="benefits-of-code-review" class="section level2">
-<h2>Benefits of code review:</h2>
+<h2>Benefits of code review</h2>
 <ul>
 <li>More efficient code!</li>
 <li>More readable code!</li>
@@ -385,10 +393,10 @@ div.tocify {
 <li>Less wrong code!</li>
 <li>Both the people who write the code originally and review the code will learn more by doing code review!</li>
 <li>More transparency around the inner workings of the code of a project.</li>
+<li>Makes it easier to publish, share and reuse code later!</li>
 </ul>
-</div>
-<div id="more-reading" class="section level2">
-<h2>More reading:</h2>
+<div id="more-reading" class="section level3">
+<h3>More reading</h3>
 <ul>
 <li><a href="https://doi.org/10.7287/peerj.preprints.3210v1">Opinionated analysis development</a> by Hilary Parker</li>
 <li><a href="https://www.atlassian.com/agile/software-development/code-reviews">Why code reviews matter (and actually save time!)</a> by Dan Radigan.</li>
@@ -396,8 +404,9 @@ div.tocify {
 </ul>
 <p>Code review works best when the whole lab is committed to the process. Your lab can use the resources here and discuss how you’d like to set up a code review system. Throughout this process of code review and especially when setting up a new method in your lab, <strong>communication is critical</strong>. Everyone in the lab should err on the side of over-communication!</p>
 </div>
-<div id="lab-roles" class="section level2">
-<h2>Lab roles</h2>
+</div>
+<div id="code-review-and-lab-roles" class="section level2">
+<h2>Code review and Lab roles</h2>
 <p>Depending on your role in your lab, there are different resources we recommend. We’ve defined three different kinds of roles for the purposes of these resources and discussion.</p>
 <p>Note that these are not formal titles, but more general descriptions of responsibilities members of a lab might have. We’ve created them to help with our general discussion about lab dynamics and how code review might take place most effectively and efficiently in your lab.</p>
 <ul>
@@ -405,9 +414,9 @@ div.tocify {
 <li><img src='resources/images/manager.png' width = '40px'> <a href="#resources-for-lab-managers"><strong>Lab Manager</strong></a> - Mentors people who are write code but also sometimes writes code themselves</li>
 <li><img src='resources/images/developer.png' width = '40px'> <a href="#resources-for-lab-developers"><strong>Lab Developer</strong></a> - Writes code</li>
 </ul>
-<div id="overview-of-what-project-development" class="section level3">
-<h3>Overview of what project development</h3>
-<p>This is a very hypothetical overview of what project development may look like. In reality, project development doesn’t take the form of perfect linear steps that lead nicely from one to the other.</p>
+<div id="overview-of-project-development" class="section level3">
+<h3>Overview of project development</h3>
+<p>This is a very general overview of what project development may look like. In reality, project development doesn’t take the form of perfect linear steps that lead nicely from one to the other nor is every lab structured exactly the same.</p>
 <p>A lot of your team’s own project development will be something you all need to learn and determine what works best as a group. This is to say that <strong>communication that is loaded with empathy is of the utmost importance throughout this process from all parties</strong>.</p>
 <p><img src="resources/images/lab_roles_2.png" /> <img src="resources/images/lab_roles_3.png" /></p>
 <p>From here, we recommend you go to the page that most closely describes your role in your lab:</p>
@@ -416,6 +425,7 @@ div.tocify {
 <li><a href="lab_managers.html">Lab Manager</a></li>
 <li><a href="lab_developers.html">Lab Developer</a></li>
 </ul>
+<p>* Completely overwhelmed? Don’t know where to start? <a href="https://forms.gle/8WkKbbpjg6AXTuMW7">Fill out this form</a> and let us know what’s going on.</p>
 </div>
 </div>
 
