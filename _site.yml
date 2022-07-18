@@ -3,21 +3,24 @@ output_dir: '.'
 navbar:
   title: "<img src='resources/images/FredHutch_h_tag_4col_cmyk.jpg' width = '200px'/>"
   left:
-  - text: About DaSL
+  - text: About Code Review
     href: index.html
     icon: fa-home
   - text: For Lab Leaders
     href: lab_leaders.html
-    icon: leader
+    icon: fa-person-chalkboard
   - text: For Lab Managers
     href: lab_managers.html
-    icon: manager
+    icon: fa-users-between-lines
   - text: For Lab Developers
     href: lab_developers.html
-    icon: developer
-  - text: GitHub
-    href: https://github.com/fredhutch
-    icon: fa-github
+    icon: fa-users-gear
+  - text: So many resources!
+    href: more_resources.html
+    icon: fa-book
+  - text: FH DaSL
+    href: https://data.fredhutch.org
+    icon: fa-code-merge # or fa-group-arrows-rotate
 
 output:
   html_document:

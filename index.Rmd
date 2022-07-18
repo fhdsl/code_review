@@ -10,7 +10,9 @@ Creating quality code is tricky, whether it be for data analysis or a software p
 
 Code review does take more time upfront than not doing code review, but the long-term benefits of code review are worth the upfront costs. Code review will not make your code perfect, but it will help to make your code _less wrong_.
 
-## Benefits of code review:  
+The most rewarding ventures into code review start with the mentality that **being wrong is okay and expected sometimes!**. Indeed, Code review helps us uncover the mistakes rather than keeping them hidden. Uncovered mistakes allow **1) Everyone to learn!** and **2) For the code product to be improved!**.
+
+## Benefits of code review
 
 - More efficient code!
 - More readable code!
@@ -18,8 +20,9 @@ Code review does take more time upfront than not doing code review, but the long
 - Less wrong code!
 - Both the people who write the code originally and review the code will learn more by doing code review!
 - More transparency around the inner workings of the code of a project.
+- Makes it easier to publish, share and reuse code later!
 
-## More reading:  
+### More reading
 
 - [Opinionated analysis development](https://doi.org/10.7287/peerj.preprints.3210v1) by Hilary Parker
 - [Why code reviews matter (and actually save time!)](https://www.atlassian.com/agile/software-development/code-reviews) by Dan Radigan.
@@ -28,7 +31,7 @@ Code review does take more time upfront than not doing code review, but the long
 Code review works best when the whole lab is committed to the process. Your lab can use the resources here and discuss how you'd like to set up a code review system.
 Throughout this process of code review and especially when setting up a new method in your lab, **communication is critical**. Everyone in the lab should err on the side of over-communication!
 
-## Lab roles
+## Code review and Lab roles
 
 Depending on your role in your lab, there are different resources we recommend. We've defined three different kinds of roles for the purposes of these resources and discussion.
 
@@ -38,9 +41,9 @@ Note that these are not formal titles, but more general descriptions of responsi
 - <img src='resources/images/manager.png' width = '40px'> [**Lab Manager**](#resources-for-lab-managers) - Mentors people who are write code but also sometimes writes code themselves
 - <img src='resources/images/developer.png' width = '40px'> [**Lab Developer**](#resources-for-lab-developers) - Writes code
 
-### Overview of what project development
+### Overview of project development
 
-This is a very hypothetical overview of what project development may look like. In reality, project development doesn't take the form of perfect linear steps that lead nicely from one to the other.
+This is a very general overview of what project development may look like. In reality, project development doesn't take the form of perfect linear steps that lead nicely from one to the other nor is every lab structured exactly the same.
 
 A lot of your team's own project development will be something you all need to learn and determine what works best as a group. This is to say that **communication that is loaded with empathy is of the utmost importance throughout this process from all parties**.
 
@@ -48,7 +51,9 @@ A lot of your team's own project development will be something you all need to l
 ![](resources/images/lab_roles_3.png)
 
 From here, we recommend you go to the page that most closely describes your role in your lab:
-   
+
 - [Lab Leader](lab_leaders.html)
 - [Lab Manager](lab_managers.html)
 - [Lab Developer](lab_developers.html)
+
+\* Completely overwhelmed? Don't know where to start? [Fill out this form](https://forms.gle/8WkKbbpjg6AXTuMW7) and let us know what's going on.
